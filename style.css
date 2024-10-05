@@ -34,3 +34,11 @@ body{
 .card2 .imputs input{
     border-radius: 8px;
 }
+.button{
+   color:white;
+   background-color: black;
+   border-radius: 15px;
+   cursor: pointer;
+   border-style: none;
+   padding: 6px 8px;
+}
